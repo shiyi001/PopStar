@@ -1,0 +1,11 @@
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\bin\Debug\PopStar.exe.config
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.csprojResolveAssemblyReference.cache
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.MainForm.resources
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.Introduction.resources
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.Properties.Resources.resources
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.csproj.GenerateResource.Cache
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\bin\Debug\PopStar.exe
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\bin\Debug\PopStar.pdb
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.exe
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.pdb
+C:\Users\Shiyi\Desktop\popstar\PopStar\PopStar\obj\Debug\PopStar.GridPicture.resources
